@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+}
+
+.center {
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.text {
+    width: 420px;
+    height: 30px;
+}
+
+.cencel{
+    margin-top: 10px;
+    width: 428px;
+    height: 28px;
+    font-size: x-large;
+}
+
+.top{
+    margin-top: 20px;
+}
+
+.num{
+    font-size: x-large;
+    padding: 20px 50px;
+}
+
+.size{
+    padding: 20px 20px;
+    font-size: x-large;
+}
+
+.siz{
+    font-size: x-large;
+    padding: 27px 24px;
+}
+
+.si{
+    font-size: x-large;
+    padding: 27px 21px;
+}
+
+.num1{
+    margin-top: 5px;
+    font-size: x-large;
+    padding: 20px 171.5px;
+}
+
+.num2{
+    margin-top: 5px;
+    font-size: x-large;
+    padding: 20px 21px;
+}
+
+
+
+
