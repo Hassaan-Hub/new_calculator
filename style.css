@@ -4,12 +4,15 @@ body {
 
 .center {
     display: inline-block;
+    background-color: gray;
     border: 1px solid black;
+    box-shadow: 1px 1px 3px 1px #000000;
 }
 
-.text {
+.text{
     width: 420px;
     height: 30px;
+    box-shadow: 1px 1px 3px 1px #000000;
 }
 
 .cencel{
@@ -17,44 +20,60 @@ body {
     width: 428px;
     height: 28px;
     font-size: x-large;
+    box-shadow: 1px 1px 3px 1px #000000;
 }
 
 .top{
     margin-top: 20px;
+    box-shadow: 1px 1px 3px 1px #000000;
 }
 
 .num{
     font-size: x-large;
     padding: 20px 50px;
+    box-shadow: 1px 1px 3px 1px #000000;
 }
 
 .size{
     padding: 20px 20px;
     font-size: x-large;
+    box-shadow: 1px 1px 3px 1px #000000;
 }
 
 .siz{
+    margin-top: 3px;
     font-size: x-large;
-    padding: 27px 24px;
+    padding: 20px 24px;
+    box-shadow: 1px 1px 3px 1px #000000;
 }
 
 .si{
+    margin-top: 3px;
     font-size: x-large;
-    padding: 27px 21px;
+    padding: 20px 21px;
+    box-shadow: 1px 1px 3px 1px #000000;
 }
 
 .num1{
     margin-top: 5px;
     font-size: x-large;
-    padding: 20px 171.5px;
+    padding: 20px 140px;
+    box-shadow: 1px 1px 3px 1px #000000;
 }
 
 .num2{
     margin-top: 5px;
+    margin-bottom: 3px;
     font-size: x-large;
     padding: 20px 21px;
+    box-shadow: 1px 1px 3px 1px #000000;
 }
 
-
+.num3{
+    font-size: x-large;
+    margin-top: 5px;
+    padding: 16px 13px 19px 12px;
+    box-shadow: 1px 1px 3px 1px #000000;
+}
 
 

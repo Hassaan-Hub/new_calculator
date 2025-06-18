@@ -12,3 +12,8 @@ function getresult(){
     var result = document.getElementById('result')
     result.value = eval(result.value)
 }
+
+function backSpace(){
+    var result = document.getElementById('result')
+    result.value = result.value.slice(0, -1);
+}
