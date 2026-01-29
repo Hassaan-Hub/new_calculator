@@ -1,4 +1,4 @@
-/* body {
+body {
     text-align: center;
 }
 
@@ -85,7 +85,7 @@
     margin-top: 5px;
     padding: 16px 13px 19px 12px;
     box-shadow: 1px 1px 3px 1px #000000;
-} */
+}
 
 
 
@@ -96,7 +96,7 @@
 /* saylani assignment */
 
 
-.container{
+/*.container{
     display: relative;
     width: 200px;
     height: 390px;
@@ -196,4 +196,4 @@
     border: none;
     border-radius: 10%;
     cursor: pointer;
-}
+}*/
